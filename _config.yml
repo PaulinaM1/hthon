@@ -40,7 +40,7 @@ collections:
     output: true
 
 prose:
-  ignore: ['/assets', '/_includes', '/_layouts', '/scripts', '/sass', '/_posts',  '/_sass', '/_site', '/game', '/indicator', '404.html', '_config.yml', 'index.html', 'search.md' ]
+  ignore: ['/assets', '/_metadane_krajowe', '/_includes', '/_layouts', '/scripts', '/sass', '/_posts',  '/_sass', '/_site', '/game', '/indicator', '404.html', '_config.yml', 'index.html', 'search.md' ]
   metadata:
     _metadane_globalne:
       - name: "date"
